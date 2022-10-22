@@ -1,4 +1,6 @@
 # Image Manager
+## Screenshot
+![screenshot](/screenshot.png)
 ## Usage
 ```
 $ node image-manager <imagePath>
